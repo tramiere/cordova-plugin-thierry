@@ -2,4 +2,4 @@
 .DS_Store
 
 # Ignore framework file since it's bigger than github limit
-src/ios/opencv2.framework
+#src/ios/opencv2.framework
