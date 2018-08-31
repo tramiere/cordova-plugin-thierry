@@ -1,4 +1,4 @@
-package com.cloudoki.imagedetectionplugin;
+package cordova-plugin-thierry;
 
 import android.Manifest;
 import android.app.Activity;
